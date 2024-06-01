@@ -1,0 +1,30 @@
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\app crud.exe
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\app crud.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\app crud.runtimeconfig.json
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\app crud.pdb
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\System.Windows.Extensions.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\FirstProjectMVC\app crud\app crud\obj\Release\net6.0\win-x86\PubTmp\Out\app crud.deps.json
